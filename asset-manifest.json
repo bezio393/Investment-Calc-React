@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Investment-Calc-React/static/css/main.5a5dd807.css",
+    "main.js": "/Investment-Calc-React/static/js/main.8a60c160.js",
+    "index.html": "/Investment-Calc-React/index.html",
+    "main.5a5dd807.css.map": "/Investment-Calc-React/static/css/main.5a5dd807.css.map",
+    "main.8a60c160.js.map": "/Investment-Calc-React/static/js/main.8a60c160.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a5dd807.css",
+    "static/js/main.8a60c160.js"
+  ]
+}
